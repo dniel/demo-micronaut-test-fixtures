@@ -2,7 +2,7 @@ plugins {
     id("org.jetbrains.kotlin.jvm") version "2.4.0"
     id("org.jetbrains.kotlin.plugin.allopen") version "2.4.0"
     id("com.google.devtools.ksp") version "2.3.9"
-    id("io.micronaut.library") version "5.0.1"
+    id("io.micronaut.library") version "5.0.2"
     id("io.micronaut.aot") version "5.0.2"
     id("java-test-fixtures")
 }
